@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador Frontend<br>Tenho diversos trabalhos feitos em Python<br>Tenho trabalhado trabalhado como freelancer nos últimos 6 meses.
+Programador Frontend<br>Tenho diversos trabalhos feitos em Python<br>Tenho trabalhado como freelancer nos últimos 6 meses.
 
 
 ## 🌐 Socials:
